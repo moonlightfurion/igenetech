@@ -1,0 +1,1 @@
+#Amp-id	Chr	Pos	Link-num	Primer-chr	Left-st	Left-ed	Right-st	Right-ed
