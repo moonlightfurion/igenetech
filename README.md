@@ -1,1 +1,1 @@
-# igenetech
+# use for amplication mutation genotype
